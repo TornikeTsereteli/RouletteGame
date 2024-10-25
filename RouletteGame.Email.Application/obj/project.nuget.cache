@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1qSaOiVlPi6kOZqGwl9PTZNsCGIyIy4RznA3dwMlpciTW+aRwvHABZMQ0k9MK8bILtDRUoISs1jyYPCY3GfBWQ==",
+  "dgSpecHash": "41g5wso2+H2Io6opU1UVGpC7kQUH+sXKKrxHusAVIiIBQFGonAD7nzttajtW94he7Ntlt7uwtgBD3FKMiqpCIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kk\\RiderProjects\\RouletteGame\\RouletteGame.Email.Application\\RouletteGame.Email.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kk\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

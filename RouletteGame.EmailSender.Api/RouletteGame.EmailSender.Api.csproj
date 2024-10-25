@@ -22,6 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\RouletteGame.Email.Application\RouletteGame.Email.Application.csproj" />
       <ProjectReference Include="..\RouletteGame.Email.Data\RouletteGame.Email.Data.csproj" />
     </ItemGroup>
 

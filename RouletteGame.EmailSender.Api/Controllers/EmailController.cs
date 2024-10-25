@@ -1,5 +1,8 @@
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
+using RouletteGame.Email.Application.Dtos;
+using RouletteGame.Email.Application.interfaces;
+using RouletteGame.Email.Domain.Models;
 
 namespace RouletteGame.EmailSender.Api.Controllers;
 
@@ -9,16 +12,24 @@ public class EmailController : ControllerBase
 {
 
 
-    [HttpGet("GetAllEmails")]
-    public async Task<IList<object>> GetAllSentEmail()
+    private readonly IEmailSenderService _emailSenderService;
+
+    public EmailController(IEmailSenderService emailSenderService)
     {
-        return [];
+        _emailSenderService = emailSenderService;
+    }
+
+    [HttpGet("GetAllEmails")]
+    public async Task<IList<EmailTransaction>> GetAllSentEmail()
+    {
+        return await _emailSenderService.GetAllEmail();
     }
 
     [HttpPost("SendEmail")]
-    public async Task<IActionResult> SendEmail() // some SendEmail Request so tell 
+    public async Task<IActionResult> SendEmail([FromBody] SendEmailDto emailDto) // some SendEmail Request so tell 
     {
-        return Ok("user Successfully Logged in");
+        await _emailSenderService.SendEmail(emailDto.To, emailDto.Subject, emailDto.Body);
+        return Ok("SuccessFully");
     }
     
 }
