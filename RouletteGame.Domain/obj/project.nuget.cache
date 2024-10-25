@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+1YS+DuGVOlDnh2lssYoZsbZgfSLOLxVkpwQfP707cS4LiHsVVQAkqWyWTOsHoy00jXXKUzptSMr8St4PmyKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kk\\RiderProjects\\RouletteGame\\RouletteGame.Domain\\RouletteGame.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kk\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\kk\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\kk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
