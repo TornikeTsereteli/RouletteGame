@@ -1,0 +1,12 @@
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\bin\Debug\net8.0\RouletteGame.Identity.deps.json
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\bin\Debug\net8.0\RouletteGame.Identity.dll
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\bin\Debug\net8.0\RouletteGame.Identity.pdb
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\RouletteGame.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\RouletteGame.Identity.AssemblyInfoInputs.cache
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\RouletteGame.Identity.AssemblyInfo.cs
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\RouletteGame.Identity.csproj.CoreCompileInputs.cache
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\RouletteGame.Identity.sourcelink.json
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\RouletteGame.Identity.dll
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\refint\RouletteGame.Identity.dll
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\RouletteGame.Identity.pdb
+C:\Users\kk\RiderProjects\RouletteGame\RouletteGame.Identity\obj\Debug\net8.0\ref\RouletteGame.Identity.dll

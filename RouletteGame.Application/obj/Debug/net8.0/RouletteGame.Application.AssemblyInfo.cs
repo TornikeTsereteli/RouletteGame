@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouletteGame.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8404a15d30fdfcfa6b380fc39516bc356d61d773")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e750ac56d468ac268b419d6c69ed8b6be8e0e34")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouletteGame.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouletteGame.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
